@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55257000863",
+    "project_id": "myappturismo",
+    "storage_bucket": "myappturismo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55257000863:android:a0ef75a921ca908c7aebaa",
+        "android_client_info": {
+          "package_name": "com.univalle.myappturismo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55257000863-0oojcus86p9igfrpa0hppllc5pbv443t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.univalle.myappturismo",
+            "certificate_hash": "801ca3293a0b1cd9ac5656fd8a1bffbf0514d2c2"
+          }
+        },
+        {
+          "client_id": "55257000863-s37jgfml9vrm66qm8n50e8rrk17h3htn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdsJvhuSgg32Lo4r66sZHNmTD574vZ7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55257000863-s37jgfml9vrm66qm8n50e8rrk17h3htn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
