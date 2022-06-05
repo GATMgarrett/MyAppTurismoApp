@@ -52,7 +52,6 @@ public class DrawerActivityHome extends AppCompatActivity implements GoogleApiCl
         photoImageView = (ImageView) findViewById(R.id.imageViewNav);
         nameTextView = (TextView) findViewById(R.id.nameTextViewNav);
         emailTextView = (TextView) findViewById(R.id.emailTextViewNav);
-        //idTextView = (TextView) findViewById(R.id.idTextView);
 
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
                 .requestEmail()

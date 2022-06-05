@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.univalle.myappturismo">
-
     <!-- Permissions for internet -->
     <uses-permission android:name="android.permission.INTERNET" /> <!-- Permissions for iformacion sobre redes -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permissions for camara -->
@@ -16,7 +15,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyAppTurismo">
-
         <!--
              TODO: Before you run your application, you need a Google Maps API key.
              TODO: Antes de ejecutar su aplicación, necesita una clave API de Google Maps.
